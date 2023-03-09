@@ -138,3 +138,5 @@ MMRMMRMRRM`;
 
 // to run the input, and it will display the expected output
 runProgram(input);
+
+module.exports = runProgram;

@@ -1,0 +1,23 @@
+{
+  "name": "marsrover",
+  "version": "1.0.0",
+  "description": "This is a Mars Rover Technical Challenge - Solution in JavaScript.",
+  "main": "rover.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonwilbert8/MarsRover.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonwilbert8/MarsRover/issues"
+  },
+  "homepage": "https://github.com/brandonwilbert8/MarsRover#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
