@@ -1,7 +1,7 @@
-# Mars Rover
+# Mars Rover 🪐
 This is a Mars Rover Technical Challenge - Solution in JavaScript. 
 
-## Problem Statement:
+## Problem Statement 📝
 
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars.
 
@@ -47,7 +47,7 @@ Expected Output:
 
 5 1 E
 
-## Identification:
+## Identification 🧐
 
 - First, trying to understand that the rover produces position and location. The position of the rover is represented by x and y coordinates. The location of the rover is represented by compass direction, so either N, E, W, or S. Example of this can be: (0,1,N) which means x = 0, y = 1, location = N.
 - Define 2 variables for both maximum x and y coordinates to make sure the rover does not go out of range.
@@ -59,7 +59,7 @@ Expected Output:
 - Another function - executeCommands() which takes 1 parameter as an input, is created to process the commands provided by NASA, just an if-statement. 
 - Also need to make sure that the rover stays within the maximum range of both x and y coordinates to make sure it can operate correctly.
 
-## Logic Operation:
+## Logic Operation 🧠
 
 - A function is created to handle the input and to create the rovers.
 - Knowing the input is consisting of 5 lines - string, it has to be separated by using the .split() method which is able to split the string into an array of substrings.
